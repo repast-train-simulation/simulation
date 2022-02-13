@@ -1,0 +1,8 @@
+/bin/
+debug.log
+velocity.log
+Repast.settings
+debug.log.1
+ConteoOutput*.txt
+velocity.log.1
+ssh_remote_model.log
